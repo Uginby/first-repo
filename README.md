@@ -1,3 +1,3 @@
 # first-repo
 test text changes
-making changes by step 2
+making changes by step 3
